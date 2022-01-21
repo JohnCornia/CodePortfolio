@@ -1,6 +1,6 @@
 ### HTML, CSS & JavaScript projects
 
-##### [Percussion Sounds](https://johncornia.github.io/WDD_330/weekNine/ta09/javascript30-drums/index-START.html)
+##### [JS Drum Kit](https://johncornia.github.io/WDD_330/weekNine/ta09/javascript30-drums/index-START.html)
 A project web app created with a team of other students that can be used to play percussion sounds. This app makes use of some CSS animations and an event listener for key presses.
 
 ##### [Brazilian Jiu Jitsu Mount Escapes and Attacks](https://johncornia.github.io/WDD_330/blockTwoChallenge/index.html)
