@@ -1,7 +1,3 @@
-# John's Code Portfolio
-
-Welcome! Here are some of my past projects.
-
 ### HTML, CSS & JavaScript projects
 
 ##### [Brazilian Jiu Jitsu Mount Escapes and Attacks](https://johncornia.github.io/WDD_330/blockTwoChallenge/index.html)
